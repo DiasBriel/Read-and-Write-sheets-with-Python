@@ -1,8 +1,7 @@
-# read_and_write_google_sheets_sample
+# Read and Write Sheets using Python!
 
 Before you begin, check this video to make your api in google cloud with your key
 https://youtu.be/Urh5BQmssJs
-
 
 1. git clone https://github.com/yuri12344/read_and_write_google_sheets_sample
 2. cd read_and_write_google_sheets_sample
